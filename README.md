@@ -1,1 +1,1 @@
-My portfolio which contains all my projects, education, skills etc.
+Landing pages/Live preview for my projects.
